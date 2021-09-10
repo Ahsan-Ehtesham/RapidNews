@@ -4,7 +4,7 @@ export class Spinner extends Component {
   render() {
     return (
       <div className="d-flex justify-content-center">
-        <div class="ripple-loader">
+        <div className="ripple-loader">
           <div></div>
           <div></div>
         </div>
