@@ -22,7 +22,7 @@ export class NewsItem extends Component {
               {title}...
               <span
                 className="position-absolute top-0 translate-middle badge rounded-pill bg-info"
-                style={{ zIndex: "1", left: "98%" }}
+                style={{ zIndex: "1", left: "95%" }}
               >
                 New
               </span>
